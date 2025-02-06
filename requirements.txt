@@ -1,1 +1,13 @@
-fastapi[all]
+fastapi
+uvicorn
+sqlmodel
+httpx
+psycopg
+psycopg-binary
+requests
+pytest
+python-multipart
+numpy
+passlib
+jose
+tensorflow
